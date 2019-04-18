@@ -1,2 +1,2 @@
 # GoLibraryRewrites
-Fork of select standard libarary modules, with modifications for various projects
+Fork of select standard library modules, with modifications for various projects
